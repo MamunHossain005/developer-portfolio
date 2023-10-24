@@ -188,6 +188,7 @@ margin-top: 30px;
   margin-bottom: 30px;
 }
 
-.resume .btn-primary {
-  margin: 0px 440px;
+.resume-button {
+  margin-top: 50px;
+  text-align: center;
 }
